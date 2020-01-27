@@ -1,5 +1,5 @@
 <h1>Auto report Instagram accounts ( SPAM BOT ) </h1>
-<p><a href="https://github.com/mrwn007/007spam-BOT"><img src="https://img.shields.io/badge/M3M0-0.0.2-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/M3M0-0.0.2-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
+<p><a href="https://github.com/mrwn007/007spam-BOT"><img src="https://img.shields.io/badge/007spam-BOT-0.0.1-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/007spam-BOT-0.0.1-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
 <a href="https://github.com/mrwn007/007spam-BOT"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
 <a href="https://github.com/mrwn007/007spam-BOT"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
 <p><h1>Auto report Instagram accounts ( SPAM BOT ) 😈 </h1>
