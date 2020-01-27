@@ -1,4 +1,4 @@
-<h1>Auto report Instagram accounts ( SPAM BOT ) </h1>
+<h1>007Spam-BOT </h1>
 <p><a href="https://github.com/mrwn007/007spam-BOT"><img  style="max-width:100%;"></a>
 <a href="https://github.com/mrwn007/007spam-BOT"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
 <a href="https://github.com/mrwn007/007spam-BOT"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
