@@ -57,4 +57,4 @@ python -m pip install requests
 bot.bat 
 ```
 <h2>Version</h2>
-<strong>Current version is 0.0.2</strong>
+<strong>Current version is 0.0.1</strong>
