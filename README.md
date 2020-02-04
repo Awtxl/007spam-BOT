@@ -41,7 +41,7 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 pkg install git
 pkg install python
 git clone https://github.com/mrwn007/007spam-BOT.git
-cd M3M0
+cd 007spam-BOT
 python3 -m pip install requests
 python3 bot.py
 ```
@@ -50,7 +50,7 @@ python3 bot.py
 ```bash
 Download python3
 Download 007spam-BOT
-Extract M3M0 into Desktop
+Extract 007spam-BOT into Desktop
 Open CMD and type the following commands:
 cd Desktop/007spam-BOT-master/
 python -m pip install requests
