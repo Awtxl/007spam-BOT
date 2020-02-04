@@ -8,7 +8,7 @@
 <h2>007spam-BOT</h2>
 
 
-<img src="https://i.imgur.com/CifoNw5.jpg" data-canonical-src="https://i.imgur.com/CifoNw5.jpg" style="max-width:100%;">
+<img src="https://i.imgur.com/CifoNw5.jpg" data-canonical-src="https://www.youtube.com/watch?v=JX7fg5HrrSE&t=95s" style="max-width:100%;">
 
 
 
